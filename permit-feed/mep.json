@@ -1,0 +1,10 @@
+{
+  "asof": "sample",
+  "source": "https://data.cityofchicago.org/resource/ydr8-5enu.json",
+  "n": 3,
+  "rows": [
+    {"permit": "SAMPLE-1", "status": "issued", "address": "123 Example St", "work_type": "ELECTRICAL", "work": "Panel upgrade"},
+    {"permit": "SAMPLE-2", "status": "issued", "address": "200 Lake Ave", "work_type": "PLUMBING", "work": "Water heater"},
+    {"permit": "SAMPLE-3", "status": "complete", "address": "9 Oak Rd", "work_type": "HVAC", "work": "AC replace"}
+  ]
+}
